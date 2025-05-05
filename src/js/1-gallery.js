@@ -58,7 +58,7 @@ const markup = images.map(({ preview, original, description }) => `
         class="gallery-image"
         src="${preview}"
         alt="${description}"
-      />
+      /> 
     </a>
   </li>
 `).join('');
