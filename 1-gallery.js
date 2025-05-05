@@ -5,7 +5,7 @@ import{S as n}from"./assets/vendor-CgTBfC_f.js";(function(){const t=document.cre
         class="gallery-image"
         src="${a}"
         alt="${i}"
-      />
+      /> 
     </a>
   </li>
 `).join("");s.innerHTML=l;new n(".gallery a",{captionsData:"alt",captionPosition:"bottom",captionDelay:250});
